@@ -77,9 +77,9 @@ func requestWithHeader(url string, token string) {
 
 func main() {
 	fmt.Printf("Simple Stumble Duplicate Crown & Tropy")
-	fmt.Printf("\nThis Tools Made By Ryns And Recoded By iSholved!")
-	fmt.Printf("\nReference : Revan AR, KipasGTS, NixSey, GalvinLoL")
-	fmt.Printf("\nThanks To : Nevolutions Reborn Team For Support!")
+	fmt.Printf("\nkontoll!")
+	fmt.Printf("\nmain murni ngebosenin dek dek")
+	fmt.Printf("\nHaha stumble memek kntl anjing burik")
 
 	fmt.Printf("\n\n\n╔═╗╔╦╗╦ ╦╔╦╗╔╗ ╦  ╔═╗  ╔╦╗╦ ╦╔═╗╦  ╦╔═╗╔═╗╔╦╗╔═╗\n")
 	fmt.Printf("╚═╗ ║ ║ ║║║║╠╩╗║  ║╣    ║║║ ║╠═╝║  ║║  ╠═╣ ║ ║╣ \n")
