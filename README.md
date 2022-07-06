@@ -26,12 +26,12 @@ Termux:
 1. apt update && apt upgrade
 2. apt install git
 3. pkg install golang
-4. git clone https://github.com/iSholvedNV/StumbleExploitGo
+4. git clone https://github.com/Dimasts/stumble-burik
 5. cd StumbleExploitGo
 6. go run main.go
 
 PC : 
-1. git clone https://github.com/iSholvedNV/StumbleExploitGo
+1. git clone https://github.com/Dimasts/stumble-burik
 2. Open stumble guys.
 3. Play the game until you reach at least 1 win.
 4. When you playing make sure to sniff by using **HTTP Debuger/Wireshark**.
